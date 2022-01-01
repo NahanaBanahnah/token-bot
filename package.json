@@ -1,0 +1,29 @@
+{
+	"name": "token-bot",
+	"version": "1.0.0",
+	"description": "Crypto Discord Bot",
+	"main": "index.js",
+	"scripts": {
+		"start": "nodemon start"
+	},
+	"author": "Nahana",
+	"license": "MIT",
+	"dependencies": {
+		"@uniswap/sdk": "^3.0.3",
+		"axios": "^0.24.0",
+		"dexguru-sdk": "^1.0.6",
+		"discord.js": "^13.3.1",
+		"dotenv": "^10.0.0",
+		"ethers": "^5.5.2",
+		"graphql": "^16.2.0",
+		"graphql-tag": "^2.12.6"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/NahanaBanahnah/token-bot.git"
+	},
+	"bugs": {
+		"url": "https://github.com/NahanaBanahnah/token-bot/issues"
+	},
+	"homepage": "https://github.com/NahanaBanahnah/token-bot#readme"
+}
