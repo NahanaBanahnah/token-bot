@@ -49,6 +49,8 @@ CELO = 42220
 
 ### Running Your Bot
 You can run your bot locally on your machine buy running `npm start` in the bots directory.
+You can also run `npm run dev` (which requires nodemon package). This will automatically restart the bot service if any files are changed.
+
 To run your bot remotly you will need it hosted on a server that supports it such as [Vultr](https://www.vultr.com/?ref=8430432)
 
 ### Discord Bot Setup
