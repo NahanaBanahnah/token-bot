@@ -56,7 +56,7 @@ To run your bot remotly you will need it hosted on a server that supports it suc
 ### Discord Bot Setup
 - To create new Discord bot head to [discord.com/developers](https://discord.com/developers), login and click **New Application**
 - Enter the desired name for the bot and click Create
-- Click **Bot** under **Settings* in the left panel
+- Click **Bot** under **Settings** in the left panel
 - Click **Add Bot**
 - You will be redirected to your bots Settings. Under **Token** click **Copy** this is used as BOT_TOKEN in the **.env** file
 - Under **Settings** click OAuth. click **URL Generator**
